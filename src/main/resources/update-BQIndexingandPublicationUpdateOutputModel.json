@@ -1,0 +1,13 @@
+{
+  "contentIndexingandPublicationServiceType" : "contentIndexingandPublicationServiceType",
+  "contentIndexingandPublicationServiceInputsandOuputs" : "contentIndexingandPublicationServiceInputsandOuputs",
+  "contentIndexingandPublicationServiceName" : "contentIndexingandPublicationServiceName",
+  "indexingandPublicationPreconditions" : "indexingandPublicationPreconditions",
+  "indexingandPublicationFunctionSchedule" : "indexingandPublicationFunctionSchedule",
+  "indexingandPublicationUpdateActionTaskRecord" : {},
+  "contentIndexingandPublication" : "contentIndexingandPublication",
+  "indexingandPublicationUpdateActionTaskReference" : "IAPUATR777952",
+  "updateResponseRecord" : {},
+  "contentIndexingandPublicationServiceDescription" : "contentIndexingandPublicationServiceDescription",
+  "contentIndexingandPublicationServiceWorkProduct" : "contentIndexingandPublicationServiceWorkProduct"
+}

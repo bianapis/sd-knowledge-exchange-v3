@@ -1,0 +1,21 @@
+{
+  "knowledgeExchangeServiceConfigurationRecord" : {
+    "knowledgeExchangeServiceSubscription" : {
+      "knowledgeExchangeServiceSubscriberAccessProfile" : "knowledgeExchangeServiceSubscriberAccessProfile",
+      "knowledgeExchangeServiceSubscriberReference" : "756221"
+    },
+    "knowledgeExchangeServiceStatus" : "knowledgeExchangeServiceStatus",
+    "knowledgeExchangeServiceConfigurationSettingDescription" : "knowledgeExchangeServiceConfigurationSettingDescription",
+    "knowledgeExchangeServiceConfigurationSetup" : {
+      "knowledgeExchangeServiceConfigurationParameter" : "knowledgeExchangeServiceConfigurationParameter"
+    },
+    "knowledgeExchangeServiceAgreement" : {
+      "knowledgeExchangeServiceAgreementReference" : "721156",
+      "knowledgeExchangeServiceUserReference" : "733696",
+      "knowledgeExchangeServiceAgreementTermsandConditions" : "knowledgeExchangeServiceAgreementTermsandConditions"
+    }
+  },
+  "knowledgeExchangeConfigurationActionTaskReference" : "SCATR765419",
+  "knowledgeExchangeConfigurationActionTaskRecord" : {},
+  "knowledgeExchangeServicingSessionStatus" : "knowledgeExchangeServicingSessionStatus"
+}

@@ -1,0 +1,14 @@
+{
+  "contentIndexingandPublicationServiceType" : "contentIndexingandPublicationServiceType",
+  "contentIndexingandPublicationServiceInputsandOuputs" : "contentIndexingandPublicationServiceInputsandOuputs",
+  "contentIndexingandPublicationServiceName" : "contentIndexingandPublicationServiceName",
+  "indexingandPublicationExchangeActionTaskRecord" : {},
+  "indexingandPublicationPreconditions" : "indexingandPublicationPreconditions",
+  "indexingandPublicationFunctionSchedule" : "indexingandPublicationFunctionSchedule",
+  "indexingandPublicationInstanceStatus" : "indexingandPublicationInstanceStatus",
+  "contentIndexingandPublication" : "contentIndexingandPublication",
+  "contentIndexingandPublicationServiceDescription" : "contentIndexingandPublicationServiceDescription",
+  "indexingandPublicationExchangeActionTaskReference" : "IAPEATR776299",
+  "indexingandPublicationExchangeActionResponse" : "indexingandPublicationExchangeActionResponse",
+  "contentIndexingandPublicationServiceWorkProduct" : "contentIndexingandPublicationServiceWorkProduct"
+}

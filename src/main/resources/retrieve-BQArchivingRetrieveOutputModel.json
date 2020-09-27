@@ -1,0 +1,25 @@
+{
+  "archivingPreconditions" : "archivingPreconditions",
+  "archivingFunctionSchedule" : "archivingFunctionSchedule",
+  "archivingRetrieveActionTaskReference" : "ARATR740903",
+  "archivingInstanceReport" : {
+    "archivingInstanceReportParameters" : "archivingInstanceReportParameters",
+    "archivingInstanceReport" : {},
+    "archivingInstanceReportRecord" : {},
+    "archivingInstanceReportType" : "archivingInstanceReportType"
+  },
+  "contentArchivingServiceWorkProduct" : "contentArchivingServiceWorkProduct",
+  "contentArchivingServiceName" : "contentArchivingServiceName",
+  "archivingInstanceAnalysis" : {
+    "archivingInstanceAnalysisRecord" : {},
+    "archivingInstanceAnalysisParameters" : "archivingInstanceAnalysisParameters",
+    "archivingInstanceAnalysisReportType" : "archivingInstanceAnalysisReportType",
+    "archivingInstanceAnalysisReport" : {}
+  },
+  "contentArchiving" : "contentArchiving",
+  "contentArchivingServiceInputsandOuputs" : "contentArchivingServiceInputsandOuputs",
+  "archivingRetrieveActionResponse" : "archivingRetrieveActionResponse",
+  "contentArchivingServiceType" : "contentArchivingServiceType",
+  "contentArchivingServiceDescription" : "contentArchivingServiceDescription",
+  "archivingRetrieveActionTaskRecord" : {}
+}

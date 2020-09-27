@@ -1,0 +1,25 @@
+{
+  "captureandClassificationRetrieveActionResponse" : "captureandClassificationRetrieveActionResponse",
+  "captureandClassificationRetrieveActionTaskReference" : "CACRATR730963",
+  "captureandClassificationInstanceAnalysis" : {
+    "captureandClassificationInstanceAnalysisReportType" : "captureandClassificationInstanceAnalysisReportType",
+    "captureandClassificationInstanceAnalysisReport" : {},
+    "captureandClassificationInstanceAnalysisParameters" : "captureandClassificationInstanceAnalysisParameters",
+    "captureandClassificationInstanceAnalysisRecord" : {}
+  },
+  "captureandClassificationInstanceReport" : {
+    "captureandClassificationInstanceReportParameters" : "captureandClassificationInstanceReportParameters",
+    "captureandClassificationInstanceReport" : {},
+    "captureandClassificationInstanceReportRecord" : {},
+    "captureandClassificationInstanceReportType" : "captureandClassificationInstanceReportType"
+  },
+  "contentCaptureandClassificationServiceInputsandOuputs" : "contentCaptureandClassificationServiceInputsandOuputs",
+  "contentCaptureandClassificationServiceWorkProduct" : "contentCaptureandClassificationServiceWorkProduct",
+  "contentCaptureandClassificationServiceDescription" : "contentCaptureandClassificationServiceDescription",
+  "captureandClassificationPreconditions" : "captureandClassificationPreconditions",
+  "contentCaptureandClassificationServiceType" : "contentCaptureandClassificationServiceType",
+  "captureandClassificationRetrieveActionTaskRecord" : {},
+  "contentCaptureandClassification" : "contentCaptureandClassification",
+  "contentCaptureandClassificationServiceName" : "contentCaptureandClassificationServiceName",
+  "captureandClassificationFunctionSchedule" : "captureandClassificationFunctionSchedule"
+}

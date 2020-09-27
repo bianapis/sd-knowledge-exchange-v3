@@ -1,0 +1,24 @@
+{
+  "intellectualPropertyExchangeOperatingSessionSchedule" : "intellectualPropertyExchangeOperatingSessionSchedule",
+  "intellectualPropertyExchangeOperatingSessionType" : "intellectualPropertyExchangeOperatingSessionType",
+  "intellectualPropertyExchangeOperatingSessionRetrieveActionResponse" : "intellectualPropertyExchangeOperatingSessionRetrieveActionResponse",
+  "intellectualPropertyExchangeOperatingSessionUsageLog" : "intellectualPropertyExchangeOperatingSessionUsageLog",
+  "intellectualPropertyExchangeOperatingSessionServiceConfiguration" : "intellectualPropertyExchangeOperatingSessionServiceConfiguration",
+  "intellectualPropertyExchangeOperatingSessionStatus" : "intellectualPropertyExchangeOperatingSessionStatus",
+  "intellectualPropertyExchangeOperatingSessionRetrieveActionTaskReference" : "IPEOSRATR794870",
+  "intellectualPropertyExchangeOperatingSessionInstanceReportRecord" : {
+    "intellectualPropertyExchangeOperatingSessionInstanceReportType" : "intellectualPropertyExchangeOperatingSessionInstanceReportType",
+    "intellectualPropertyExchangeOperatingSessionInstanceReportData" : "intellectualPropertyExchangeOperatingSessionInstanceReportData",
+    "intellectualPropertyExchangeOperatingSessionInstanceReport" : {}
+  },
+  "intellectualPropertyExchangeOperatingSessionServiceProviderReference" : "IPEOSSR733128",
+  "intellectualPropertyExchangeOperatingSessionServiceType" : "intellectualPropertyExchangeOperatingSessionServiceType",
+  "intellectualPropertyExchangeOperatingSessionReference" : "IPEOSR761233",
+  "intellectualPropertyExchangeOperatingSessionServiceProviderSchedule" : "intellectualPropertyExchangeOperatingSessionServiceProviderSchedule",
+  "intellectualPropertyExchangeOperatingSessionInstanceAnalysis" : {
+    "intellectualPropertyExchangeOperatingSessionInstanceAnalysisReport" : {},
+    "intellectualPropertyExchangeOperatingSessionInstanceAnalysisData" : "intellectualPropertyExchangeOperatingSessionInstanceAnalysisData",
+    "intellectualPropertyExchangeOperatingSessionInstanceAnalysisReportType" : "intellectualPropertyExchangeOperatingSessionInstanceAnalysisReportType"
+  },
+  "intellectualPropertyExchangeOperatingSessionRetrieveActionTaskRecord" : {}
+}

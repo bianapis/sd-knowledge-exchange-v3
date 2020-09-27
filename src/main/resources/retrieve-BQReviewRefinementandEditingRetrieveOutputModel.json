@@ -1,0 +1,25 @@
+{
+  "reviewRefinementandEditingInstanceReport" : {
+    "reviewRefinementandEditingInstanceReportParameters" : "reviewRefinementandEditingInstanceReportParameters",
+    "reviewRefinementandEditingInstanceReportType" : "reviewRefinementandEditingInstanceReportType",
+    "reviewRefinementandEditingInstanceReport" : {},
+    "reviewRefinementandEditingInstanceReportRecord" : {}
+  },
+  "reviewRefinementandEditingInstanceAnalysis" : {
+    "reviewRefinementandEditingInstanceAnalysisRecord" : {},
+    "reviewRefinementandEditingInstanceAnalysisReportType" : "reviewRefinementandEditingInstanceAnalysisReportType",
+    "reviewRefinementandEditingInstanceAnalysisParameters" : "reviewRefinementandEditingInstanceAnalysisParameters",
+    "reviewRefinementandEditingInstanceAnalysisReport" : {}
+  },
+  "contentReview,RefinementandEditingServiceInputsandOuputs" : "contentReview,RefinementandEditingServiceInputsandOuputs",
+  "contentReview,RefinementandEditingServiceWorkProduct" : "contentReview,RefinementandEditingServiceWorkProduct",
+  "reviewRefinementandEditingRetrieveActionTaskReference" : "RRAERATR781486",
+  "reviewRefinementandEditingRetrieveActionTaskRecord" : {},
+  "contentReview,RefinementandEditingServiceDescription" : "contentReview,RefinementandEditingServiceDescription",
+  "contentReview,RefinementandEditingServiceName" : "contentReview,RefinementandEditingServiceName",
+  "contentReview,RefinementandEditing" : "contentReview,RefinementandEditing",
+  "review,RefinementandEditingFunctionSchedule" : "review,RefinementandEditingFunctionSchedule",
+  "reviewRefinementandEditingRetrieveActionResponse" : "reviewRefinementandEditingRetrieveActionResponse",
+  "review,RefinementandEditingPreconditions" : "review,RefinementandEditingPreconditions",
+  "contentReview,RefinementandEditingServiceType" : "contentReview,RefinementandEditingServiceType"
+}

@@ -1,0 +1,14 @@
+{
+  "review,RefinementandEditingFunctionSchedule" : "review,RefinementandEditingFunctionSchedule",
+  "reviewRefinementandEditingExchangeActionTaskRecord" : {},
+  "reviewRefinementandEditingInstanceStatus" : "reviewRefinementandEditingInstanceStatus",
+  "contentReview,RefinementandEditingServiceInputsandOuputs" : "contentReview,RefinementandEditingServiceInputsandOuputs",
+  "contentReview,RefinementandEditingServiceWorkProduct" : "contentReview,RefinementandEditingServiceWorkProduct",
+  "review,RefinementandEditingPreconditions" : "review,RefinementandEditingPreconditions",
+  "contentReview,RefinementandEditingServiceDescription" : "contentReview,RefinementandEditingServiceDescription",
+  "contentReview,RefinementandEditingServiceName" : "contentReview,RefinementandEditingServiceName",
+  "reviewRefinementandEditingExchangeActionResponse" : "reviewRefinementandEditingExchangeActionResponse",
+  "contentReview,RefinementandEditingServiceType" : "contentReview,RefinementandEditingServiceType",
+  "reviewRefinementandEditingExchangeActionTaskReference" : "RRAEEATR746809",
+  "contentReview,RefinementandEditing" : "contentReview,RefinementandEditing"
+}

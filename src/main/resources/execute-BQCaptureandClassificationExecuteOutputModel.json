@@ -1,0 +1,14 @@
+{
+  "contentCaptureandClassificationServiceDescription" : "contentCaptureandClassificationServiceDescription",
+  "captureandClassificationPreconditions" : "captureandClassificationPreconditions",
+  "contentCaptureandClassificationServiceType" : "contentCaptureandClassificationServiceType",
+  "executeResponseRecord" : {},
+  "contentCaptureandClassification" : "contentCaptureandClassification",
+  "captureandClassificationExecuteActionTaskRecord" : {},
+  "contentCaptureandClassificationServiceName" : "contentCaptureandClassificationServiceName",
+  "contentCaptureandClassificationServiceInputsandOuputs" : "contentCaptureandClassificationServiceInputsandOuputs",
+  "contentCaptureandClassificationServiceWorkProduct" : "contentCaptureandClassificationServiceWorkProduct",
+  "captureandClassificationExecuteRecordReference" : "CACERR733638",
+  "captureandClassificationFunctionSchedule" : "captureandClassificationFunctionSchedule",
+  "captureandClassificationExecuteActionTaskReference" : "CACEATR781335"
+}

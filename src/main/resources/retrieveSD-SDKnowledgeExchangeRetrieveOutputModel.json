@@ -1,0 +1,39 @@
+{
+  "knowledgeExchangeRetrieveActionRecord" : {
+    "knowledgeExchangeActivityAnalysis" : {
+      "activityAnalysisResult" : "activityAnalysisResult",
+      "activityAnalysisReportType" : "activityAnalysisReportType",
+      "activityAnalysisReport" : {},
+      "activityAnalysisReference" : "730230"
+    },
+    "controlRecordPortfolioAnalysis" : {
+      "controlRecordPortfolioAnalysisResult" : "controlRecordPortfolioAnalysisResult",
+      "controlRecordPortfolioAnalysisReportType" : "controlRecordPortfolioAnalysisReportType",
+      "controlRecordAnalysisReport" : {},
+      "controlRecordPortfolioAnalysisReference" : "739764"
+    },
+    "knowledgeExchangePerformanceAnalysis" : {
+      "performanceAnalysisReport" : {},
+      "performanceAnalysisReportType" : "performanceAnalysisReportType",
+      "performanceAnalysisResult" : "performanceAnalysisResult",
+      "performanceAnalysisReference" : "761670"
+    }
+  },
+  "knowledgeExchangeOfferedService" : {
+    "knowledgeExchangeServiceRecord" : {
+      "knowledgeExchangeServiceDescription" : "knowledgeExchangeServiceDescription",
+      "knowledgeExchangeServiceSchedule" : "knowledgeExchangeServiceSchedule",
+      "knowledgeExchangeServiceType" : "knowledgeExchangeServiceType",
+      "knowledgeExchangeServiceVersion" : "knowledgeExchangeServiceVersion",
+      "knowledgeExchangeServicePoliciesandGuidelines" : {
+        "knowledgeExchangeServiceEligibility" : "knowledgeExchangeServiceEligibility",
+        "knowledgeExchangeServicePricingandTerms" : "knowledgeExchangeServicePricingandTerms",
+        "knowledgeExchangeServiceIntendedUses" : "knowledgeExchangeServiceIntendedUses"
+      }
+    },
+    "knowledgeExchangeServiceReference" : "776158"
+  },
+  "knowledgeExchangeRetrieveActionResponse" : "knowledgeExchangeRetrieveActionResponse",
+  "knowledgeExchangeRetrieveActionTaskReference" : "SRATR795161",
+  "knowledgeExchangeRetrieveActionTaskRecord" : {}
+}

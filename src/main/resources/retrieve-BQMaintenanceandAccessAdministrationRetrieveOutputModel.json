@@ -1,0 +1,24 @@
+{
+  "maintenanceandAccessAdministrationPreconditions" : "maintenanceandAccessAdministrationPreconditions",
+  "contentMaintenanceandAccessAdministrationServiceDescription" : "contentMaintenanceandAccessAdministrationServiceDescription",
+  "maintenanceandAccessAdministrationRetrieveActionTaskReference" : "MAAARATR766052",
+  "maintenanceandAccessAdministrationInstanceAnalysis" : {
+    "maintenanceandAccessAdministrationInstanceAnalysisRecord" : {},
+    "maintenanceandAccessAdministrationInstanceAnalysisReportType" : "maintenanceandAccessAdministrationInstanceAnalysisReportType",
+    "maintenanceandAccessAdministrationInstanceAnalysisParameters" : "maintenanceandAccessAdministrationInstanceAnalysisParameters",
+    "maintenanceandAccessAdministrationInstanceAnalysisReport" : {}
+  },
+  "maintenanceandAccessAdministrationFunctionSchedule" : "maintenanceandAccessAdministrationFunctionSchedule",
+  "maintenanceandAccessAdministrationRetrieveActionTaskRecord" : {},
+  "maintenanceandAccessAdministrationInstanceReport" : {
+    "maintenanceandAccessAdministrationInstanceReportRecord" : {},
+    "maintenanceandAccessAdministrationInstanceReport" : {},
+    "maintenanceandAccessAdministrationInstanceReportType" : "maintenanceandAccessAdministrationInstanceReportType",
+    "maintenanceandAccessAdministrationInstanceReportParameters" : "maintenanceandAccessAdministrationInstanceReportParameters"
+  },
+  "maintenanceandAccessAdministrationRetrieveActionResponse" : "maintenanceandAccessAdministrationRetrieveActionResponse",
+  "contentMaintenanceandAccessAdministration" : "contentMaintenanceandAccessAdministration",
+  "contentMaintenanceandAccessAdministrationServiceInputsandOuputs" : "contentMaintenanceandAccessAdministrationServiceInputsandOuputs",
+  "contentMaintenanceandAccessAdministrationServiceWorkProduct" : "contentMaintenanceandAccessAdministrationServiceWorkProduct",
+  "contentMaintenanceandAccessAdministrationServiceType" : "contentMaintenanceandAccessAdministrationServiceType"
+}

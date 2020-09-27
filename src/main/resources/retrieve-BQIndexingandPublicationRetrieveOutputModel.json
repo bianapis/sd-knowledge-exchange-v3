@@ -1,0 +1,25 @@
+{
+  "contentIndexingandPublicationServiceType" : "contentIndexingandPublicationServiceType",
+  "contentIndexingandPublicationServiceInputsandOuputs" : "contentIndexingandPublicationServiceInputsandOuputs",
+  "indexingandPublicationFunctionSchedule" : "indexingandPublicationFunctionSchedule",
+  "contentIndexingandPublication" : "contentIndexingandPublication",
+  "indexingandPublicationInstanceReport" : {
+    "indexingandPublicationInstanceReportType" : "indexingandPublicationInstanceReportType",
+    "indexingandPublicationInstanceReportRecord" : {},
+    "indexingandPublicationInstanceReport" : {},
+    "indexingandPublicationInstanceReportParameters" : "indexingandPublicationInstanceReportParameters"
+  },
+  "contentIndexingandPublicationServiceWorkProduct" : "contentIndexingandPublicationServiceWorkProduct",
+  "contentIndexingandPublicationServiceName" : "contentIndexingandPublicationServiceName",
+  "indexingandPublicationRetrieveActionResponse" : "indexingandPublicationRetrieveActionResponse",
+  "indexingandPublicationPreconditions" : "indexingandPublicationPreconditions",
+  "indexingandPublicationRetrieveActionTaskRecord" : {},
+  "indexingandPublicationInstanceAnalysis" : {
+    "indexingandPublicationInstanceAnalysisRecord" : {},
+    "indexingandPublicationInstanceAnalysisReportType" : "indexingandPublicationInstanceAnalysisReportType",
+    "indexingandPublicationInstanceAnalysisReport" : {},
+    "indexingandPublicationInstanceAnalysisParameters" : "indexingandPublicationInstanceAnalysisParameters"
+  },
+  "indexingandPublicationRetrieveActionTaskReference" : "IAPRATR747244",
+  "contentIndexingandPublicationServiceDescription" : "contentIndexingandPublicationServiceDescription"
+}

@@ -1,0 +1,24 @@
+{
+  "knowledgeExchangeServicingSessionReference" : "SSSR783215",
+  "knowledgeExchangeActivationActionTaskReference" : "SAATR758836",
+  "knowledgeExchangeServicingSessionRecord" : {},
+  "knowledgeExchangeServiceConfigurationRecord" : {
+    "knowledgeExchangeServiceConfigurationSettingReference" : "700761",
+    "knowledgeExchangeServiceSubscription" : {
+      "knowledgeExchangeServiceSubscriberAccessProfile" : "knowledgeExchangeServiceSubscriberAccessProfile",
+      "knowledgeExchangeServiceSubscriberReference" : "769192"
+    },
+    "knowledgeExchangeServiceStatus" : "knowledgeExchangeServiceStatus",
+    "knowledgeExchangeServiceConfigurationSettingDescription" : "knowledgeExchangeServiceConfigurationSettingDescription",
+    "knowledgeExchangeServiceConfigurationSetup" : {
+      "knowledgeExchangeServiceConfigurationParameter" : "knowledgeExchangeServiceConfigurationParameter"
+    },
+    "knowledgeExchangeServiceAgreement" : {
+      "knowledgeExchangeServiceAgreementReference" : "791202",
+      "knowledgeExchangeServiceUserReference" : "767210",
+      "knowledgeExchangeServiceAgreementTermsandConditions" : "knowledgeExchangeServiceAgreementTermsandConditions"
+    }
+  },
+  "knowledgeExchangeActivationActionTaskRecord" : {},
+  "knowledgeExchangeServicingSessionStatus" : "knowledgeExchangeServicingSessionStatus"
+}
